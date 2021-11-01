@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406405007540",
+    "project_id": "notes-app-firebase-dab95",
+    "storage_bucket": "notes-app-firebase-dab95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406405007540:android:82fdab3a2643d30b286fe1",
+        "android_client_info": {
+          "package_name": "com.example.notesappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406405007540-j7ks9o6l25jb9njg9ujqbp41p6tcu405.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-qfLcWEDW_09Hl2WImoEVL3h7uOtuXQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406405007540-j7ks9o6l25jb9njg9ujqbp41p6tcu405.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
